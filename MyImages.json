@@ -1,0 +1,70 @@
+{
+    "images": [
+        {
+            "imgPath": "img/MyImage/DoctorDoom.jpg",
+            "streagth": "10",
+            "description": "Ruler of Laveria",
+            "date": "01/01/2016"
+        },
+        {
+            "imgPath": "img/MyImage/Ultron.jpg",
+            "streagth": "8",
+            "description": "A mechine built for peace",
+            "date": "01/02/2016"
+        },
+        {
+            "imgPath": "img/MyImage/Galactus.jpg",
+            "streagth": "9",
+            "description": "The World Eater",
+            "date": "01/03/2016"
+        },
+        {
+            "imgPath": "img/MyImage/Magneto.jpg",
+            "streagth": "10",
+            "description": "One of the most powerful mutants",
+            "date": "01/04/2016"
+        },
+        {
+            "imgPath": "img/MyImage/GreenGoblin.webp",
+            "streagth": "5",
+            "description": "one of Spider-man's greatest threats",
+            "date": "01/05/2016"
+        },
+        {
+            "imgPath": "img/MyImage/KillMonger.jpg",
+            "streagth": "6",
+            "description": "Bealive to be the true king",
+            "date": "01/06/2016"
+        },
+        {
+            "imgPath": "img/MyImage/mandarin.webp",
+            "streagth": "6",
+            "description": "How Iron Man was born",
+            "date": "01/07/2016"
+        },
+        {
+            "imgPath": "img/MyImage/Thanos.jpg",
+            "streagth": "9",
+            "description": "Mad Titan",
+            "date": "01/08/2016"
+        },
+        {
+            "imgPath": "img/MyImage/TaskMaster.jpg",
+            "streagth": "5",
+            "description": "Copy your moves prefectly",
+            "date": "01/09/2016"
+        },
+        {
+            "imgPath": "img/MyImage/Vemon-SpiderMan2.webp",
+            "streagth": "6",
+            "description": "The dark Spider",
+            "date": "01/10/2016"
+        },
+        {
+            "imgPath": "img/MyImage/Vulture.webp",
+            "streagth": "4",
+            "description": "A Spider-Man weekly",
+            "date": "01/11/2016"
+        }
+  ]
+}
