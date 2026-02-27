@@ -2,69 +2,69 @@
     "villians": [
         {
             "imgPath": "img/MyImage/DoctorDoom.jpg",
-            "streagth": "10",
-            "description": "Ruler of Laveria",
-            "date": "01/01/2016"
+            "strength": "10",
+            "description": "Dr.Doom: Ruler of Laveria",
+            "date": "04/10/1962"
         },
         {
             "imgPath": "img/MyImage/Ultron.avif",
-            "streagth": "8",
-            "description": "A mechine built for peace",
-            "date": "01/02/2016"
+            "strength": "8",
+            "description": "Ultron: A mechine built for peace",
+            "date": "07/01/1968"
         },
         {
             "imgPath": "img/MyImage/Galactus.jpg",
-            "streagth": "9",
-            "description": "The World Eater",
-            "date": "01/03/2016"
+            "strength": "9",
+            "description": "Galactus:The World Eater",
+            "date": "03/03/1966"
         },
         {
             "imgPath": "img/MyImage/Magneto.jpg",
-            "streagth": "10",
-            "description": "One of the most powerful mutants",
-            "date": "01/04/2016"
+            "strength": "10",
+            "description": "Magneto:One of the most powerful mutants",
+            "date": "09/04/1963"
         },
         {
             "imgPath": "img/MyImage/GreenGoblin.webp",
-            "streagth": "5",
-            "description": "one of Spider-man's greatest threats",
-            "date": "01/05/2016"
+            "strength": "5",
+            "description": "Green Goblin: one of Spider-man's greatest threats",
+            "date": "04/09/1964"
         },
         {
             "imgPath": "img/MyImage/KillMonger.jpg",
-            "streagth": "6",
-            "description": "Bealive to be the true king",
-            "date": "01/06/2016"
+            "strength": "6",
+            "description": "Kill Monger:Bealive to be the true king",
+            "date": "09/08/1973"
         },
         {
             "imgPath": "img/MyImage/mandarin.webp",
-            "streagth": "6",
-            "description": "How Iron Man was born",
-            "date": "01/07/2016"
+            "strength": "6",
+            "description": "Mandarin:How Iron Man was born",
+            "date": "02/07/1964"
         },
         {
             "imgPath": "img/MyImage/Thanos.jpg",
-            "streagth": "9",
-            "description": "Mad Titan",
-            "date": "01/08/2016"
+            "strength": "9",
+            "description": "Thanos:Mad Titan",
+            "date": "02/21/1973"
         },
         {
             "imgPath": "img/MyImage/TaskMaster.jpg",
-            "streagth": "5",
-            "description": "Copy your moves prefectly",
-            "date": "01/09/2016"
+            "strength": "5",
+            "description": "Task Master:Copy your moves prefectly",
+            "date": "05/11/1980"
         },
         {
             "imgPath": "img/MyImage/Vemon-SpiderMan2.webp",
-            "streagth": "6",
-            "description": "The dark Spider",
-            "date": "01/10/2016"
+            "strength": "6",
+            "description": "Vemon:The dark Spider",
+            "date": "05/10/1988"
         },
         {
             "imgPath": "img/MyImage/Vulture.webp",
-            "streagth": "4",
-            "description": "A Spider-Man weekly",
-            "date": "01/11/2016"
+            "strength": "4",
+            "description": "Vulture:A Spider-Man weekly",
+            "date": "5/15/1963"
         }
   ]
 }

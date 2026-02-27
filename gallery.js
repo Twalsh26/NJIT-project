@@ -40,7 +40,7 @@ function fetchJSON() {
 function swapPhoto() {
   let currentPhoto = mImages[mCurrentIndex];
   $('#photo').attr('src', currentPhoto.imgPath); // Update the #photo element's src attribute with the current image's path
-  $('.location').text("streagth " + currentPhoto.streagth);
+  $('.location').text("strength " + currentPhoto.strength);
   $('.description').text("Description " + currentPhoto.description);
   $('.date').text("Date: " + currentPhoto.date);// Update the .location, .description, and .date elements with the current image's details
 }
