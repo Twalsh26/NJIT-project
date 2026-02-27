@@ -12,7 +12,7 @@ $(document).ready(() => {
 
   // Select the moreIndicator button and add a click event to:
   // - toggle the rotation classes (rot90 and rot270)
-  $('moreIndicator').on('click', function()  {
+  $('.moreIndicator').on('click', function()  {
     $(this).toggleClass('rot90 rot270')
     $('.details').slideToggle()
   }) // - slideToggle the visibility of the .details section
@@ -42,20 +42,20 @@ function swapPhoto() {
   $('#photo').attr('src', currentPhoto.imgPath); // Update the #photo element's src attribute with the current image's path
   $('.location').text("streagth " + currentPhoto.streagth);
   $('.description').text("Description " + currentPhoto.description);
-  $('.data').text("Date: " + currentPhoto.date);// Update the .location, .description, and .date elements with the current image's details
+  $('.date').text("Date: " + currentPhoto.date);// Update the .location, .description, and .date elements with the current image's details
 }
 
 // Advances to the next photo, loops to the first photo if the end of array is reached
 function showNextPhoto() {
   // Increment mCurrentIndex and call swapPhoto()
-  mCurrentIndex = (mCurrentIndex + 1) % mimages.length
+  mCurrentIndex = (mCurrentIndex + 1) % mImages.length
  swapPhoto(); // Ensure it loops back to the beginning if mCurrentIndex exceeds array length
 }
 
 // Goes to the previous photo, loops to the last photo if mCurrentIndex goes negative
 function showPrevPhoto() {
   // Decrement mCurrentIndex and call swapPhoto()
-  mCurrentIndex = (mCurrentIndex - 1 + mimages.length) % mimages.length;
+  mCurrentIndex = (mCurrentIndex - 1 + mImages.length) % mImages.length;
   swapPhoto()// Ensure it loops to the end if mCurrentIndex is less than 0
 }
 
